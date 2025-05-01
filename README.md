@@ -1,8 +1,8 @@
 # 🧮 Calculator
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://drive.google.com/file/d/1Geg-qUQ8jgh3RsIA-ayjMf_6wxPhbGE-/view?usp=sharing)
-![JavaScript](https://drive.google.com/file/d/1qyrO1lP9Bv5hqT-X7RWE7IngWURpqyHj/view?usp=drive_link)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 A sleek and fully functional calculator built with **HTML**, **CSS**, and **JavaScript**. This project emulates a standard calculator for basic arithmetic operations with a modern, responsive design.
 

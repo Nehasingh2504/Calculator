@@ -1,6 +1,6 @@
 # 🧮 Calculator
 
-![HTML]([https://drive.google.com/file/d/1ZnOBxhuNuZQVjs2VTEJn1bQPUlScqMUK/view?usp=sharing](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://drive.google.com/file/d/1Geg-qUQ8jgh3RsIA-ayjMf_6wxPhbGE-/view?usp=sharing)
 ![JavaScript](https://drive.google.com/file/d/1qyrO1lP9Bv5hqT-X7RWE7IngWURpqyHj/view?usp=drive_link)
 

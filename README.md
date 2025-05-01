@@ -1,8 +1,8 @@
 # 🧮 Calculator
 
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://drive.google.com/file/d/1ZnOBxhuNuZQVjs2VTEJn1bQPUlScqMUK/view?usp=sharing)
+![CSS](https://drive.google.com/file/d/1Geg-qUQ8jgh3RsIA-ayjMf_6wxPhbGE-/view?usp=sharing)
+![JavaScript](https://drive.google.com/file/d/1qyrO1lP9Bv5hqT-X7RWE7IngWURpqyHj/view?usp=drive_link)
 
 A sleek and fully functional calculator built with **HTML**, **CSS**, and **JavaScript**. This project emulates a standard calculator for basic arithmetic operations with a modern, responsive design.
 
@@ -10,7 +10,7 @@ A sleek and fully functional calculator built with **HTML**, **CSS**, and **Java
 
 ## 📸 Preview
 
-![Calculator Demo](your-demo-screenshot-or-GIF-link-here)
+![Calculator Demo](https://drive.google.com/file/d/1p3ojAqW87j5y-TRuSd0UnDUgJ5dE5B93/view?usp=drive_link)
 
 > *(Replace this with a real screenshot or GIF preview)*
 
@@ -39,4 +39,4 @@ A sleek and fully functional calculator built with **HTML**, **CSS**, and **Java
 ## 🚀 Getting Started
 
 ### 🔗 Live Demo
-[Click here to view the live demo](#) *(Add your GitHub Pages or Netlify link)*
+[Click here to view the live demo](https://drive.google.com/file/d/1qTg69Kf30x3XaBLkzmUNAacjZbip2Sdy/view?usp=drive_link) *(Add your GitHub Pages or Netlify link)*

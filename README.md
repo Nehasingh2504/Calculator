@@ -30,7 +30,7 @@ A sleek and fully functional calculator built with **HTML**, **CSS**, and **Java
 
 - **HTML5** – Layout and structure
 - **CSS3** – Styling and responsiveness
-- **JavaScript (ES6)** – Logic and interactivity
+- **JavaScript** – Logic and interactivity
 
 ---
 

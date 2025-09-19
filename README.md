@@ -36,4 +36,4 @@ A sleek and fully functional calculator built with **HTML**, **CSS**, and **Java
 ## 🚀 Getting Started
 
 ### 🔗 Live Demo
-[Click here to view the live demo](https://drive.google.com/file/d/1qTg69Kf30x3XaBLkzmUNAacjZbip2Sdy/view?usp=drive_link)
+https://nehasingh2504.github.io/Calculator/

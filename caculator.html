@@ -1,40 +1,44 @@
 <html>
     <head>
+         <!-- Attach css File -->
         <link rel="stylesheet" href="calculator.css">
     </head>
     <body>
         <!-- caculator body -->
         <div class="cal">
-            <form>
-                <div class="number" id="number">
-                    <div id="user_action" style="font-size: 15px;"></div>
-                    <div id="result"></div>
-                </div>
-                <input type="button" value="C" class="btn" onclick="display(this)">
-                <input type="button" value="%" class="btn" onclick="display(this)">
-                <input type="button" value="del" class="btn" onclick="display(this)">
-                <input type="button" value="/" class="btn" onclick="display(this)"><br>
-                <input type="button" value="7" class="btn" onclick="display(this)">
-                <input type="button" value="8" class="btn" onclick="display(this)">
-                <input type="button" value="9" class="btn" onclick="display(this)">
-                <input type="button" value="*" class="btn" onclick="display(this)"><br>
-                <input type="button" value="4" class="btn" onclick="display(this)">
-                <input type="button" value="5" class="btn" onclick="display(this)">
-                <input type="button" value="6" class="btn" onclick="display(this)">
-                <input type="button" value="-" class="btn" onclick="display(this)"><br>
-                <input type="button" value="1" class="btn" onclick="display(this)">
-                <input type="button" value="2" class="btn" onclick="display(this)">
-                <input type="button" value="3" class="btn" onclick="display(this)">
-                <input type="button" value="+" class="btn" onclick="display(this)"><br>
-                <input type="button" value="00" class="btn" onclick="display(this)">
-                <input type="button" value="0" class="btn" onclick="display(this)">
-                <input type="button" value="." class="btn" onclick="display(this)">
-                <input type="button" value="=" class="btn" onclick="display(this)">
-            </form>
+            <div class="number">
+            <div id="user_action"></div>
+            <div id="result">0</div>
+            </div>
+
+            <div class="buttons">
+            <button class="btn clear" onclick="clearAll()">C</button>
+            <button class="btn" onclick="backspace()"><img src="https://cdn-icons-png.flaticon.com/128/3597/3597064.png"></button>
+            <button class="btn" onclick="append('%')">%</button>
+            <button class="btn operator" onclick="append('/')">÷</button>
+
+            <button class="btn" onclick="append('7')">7</button>
+            <button class="btn" onclick="append('8')">8</button>
+            <button class="btn" onclick="append('9')">9</button>
+            <button class="btn operator" onclick="append('*')">×</button>
+
+            <button class="btn" onclick="append('4')">4</button>
+            <button class="btn" onclick="append('5')">5</button>
+            <button class="btn" onclick="append('6')">6</button>
+            <button class="btn operator" onclick="append('-')">-</button>
+
+            <button class="btn" onclick="append('1')">1</button>
+            <button class="btn" onclick="append('2')">2</button>
+            <button class="btn" onclick="append('3')">3</button>
+            <button class="btn operator" onclick="append('+')">+</button>
+
+            <button class="btn" onclick="append('0')">0</button>
+            <button class="btn" onclick="append('.')">.</button>
+            <button class="btn equal" onclick="calculate()">=</button>
+            </div>
         </div>
 
         <!-- Attach JavaScript File -->
         <script src="calculator.js"></script>
     </body>
-
 </html>

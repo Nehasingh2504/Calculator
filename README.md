@@ -9,8 +9,7 @@ A sleek and fully functional calculator built with **HTML**, **CSS**, and **Java
 ---
 
 ## 📸 Preview
-
-![Image](https://github.com/user-attachments/assets/9b08b96d-8e39-4638-9c37-58aebf305254)
+<img width="1920" height="1080" alt="Screenshot 2025-09-19 231008" src="https://github.com/user-attachments/assets/c0685728-da05-45b4-b0d6-c18e4d2aef8c" />
 
 ---
 
